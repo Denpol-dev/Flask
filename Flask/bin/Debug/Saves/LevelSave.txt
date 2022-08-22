@@ -1,0 +1,44 @@
+#61d67d муравей
+#722b93 единорог
+#55a3e4 бык
+#789611 пчела
+#61d67d муравей
+#789611 пчела
+#696969 утка
+#c52b23 звезда
+#c52b23 звезда
+#55a3e4 бык
+#61d67d муравей
+#55a3e4 бык
+#696969 утка
+#c52b23 звезда
+#789611 пчела
+#55a3e4 бык
+#c52b23 звезда
+#722b93 единорог
+#61d67d муравей
+#696969 утка
+#722b93 единорог
+#696969 утка
+#722b93 единорог
+#789611 пчела
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
+Transparent 
